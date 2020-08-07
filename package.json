@@ -1,0 +1,26 @@
+{
+  "name": "nextjs-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "express": "^4.17.1",
+    "inspector": "^0.5.0",
+    "next": "^9.0.3",
+    "next-config": "^0.1.0",
+    "next-i18next": "^4.2.1",
+    "next-images": "^1.1.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-onclickoutside": "^6.8.0",
+    "react-svg-inline": "^2.1.1",
+    "styled-components": "^4.3.2",
+    "svg-inline-react": "^3.1.0"
+  }
+}

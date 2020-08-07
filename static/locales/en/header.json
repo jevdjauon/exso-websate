@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "home" : "Home",
+    "global" : "Global Presence",
+    "associates" : "Our Associates",
+    "applying" : "Applying",
+    "units" : "Business Units"
+  },
+  "button": {
+    "text": "EN"
+  }
+}
+
